@@ -1,4 +1,4 @@
-package com.yapayzeka.swoosh
+package com.yapayzeka.swoosh.Controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
